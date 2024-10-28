@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /private/
 Allow: /
 
-Sitemap: https://www.exemple.com/sitemap.xml
+Sitemap: https://eva-warren.github.io/Seo-test/sitemap.xml
